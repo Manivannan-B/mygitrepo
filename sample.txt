@@ -1,11 +1,13 @@
 New feature added v1
 
-code added from dev1-again
-
 New code added from dev2
 
 add feature added-dev2
 
-New feature added and conflict cleared
+new code added from dev2
 
-closed
+add feature added-dev2
+
+New feature added and conflict cleard
+
+conflicts closed
