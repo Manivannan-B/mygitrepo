@@ -1,12 +1,11 @@
 New feature added v1
 
-<<<<<<< HEAD
 code added from dev1-again
-=======
-new code added from dev2
+
+New code added from dev2
 
 add feature added-dev2
 
->>>>>>> dev2
-
 New feature added and conflict cleared
+
+closed
